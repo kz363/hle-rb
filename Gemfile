@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+# gem 'discordrb'
+gem 'pry'
+gem 'pry-byebug'
+gem 'require_all'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'faye-websocket'
+gem 'eventmachine'
+gem 'levenshtein'
